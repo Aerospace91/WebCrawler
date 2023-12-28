@@ -1,0 +1,26 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "WebCrawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aerospace91/WebCrawler.git"
+  },
+  "author": "Aerospace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aerospace91/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/Aerospace91/WebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
