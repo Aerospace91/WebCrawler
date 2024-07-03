@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "WebCrawler from Boot.Dev",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aerospace91/WebCrawler.git"
+  },
+  "keywords": [
+    "Webcrawler"
+  ],
+  "author": "Cory Burmahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aerospace91/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/Aerospace91/WebCrawler#readme"
+}
